@@ -1,0 +1,59 @@
+body{
+    background:#2e3331;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: auto;
+    max-width: 900px;
+
+}
+.imgtop {
+    border: 1px solid black;
+    border-radius: 5%;
+    width: 100%;
+    ;
+}
+#title, .subtitle, .postitle {
+    color: black;
+
+}
+
+#title{
+    font-size: 40px;
+    text-transform: uppercase;
+}
+.postitle {
+    font-size: 16px;
+    font-family: 'Lucida Sans';
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.post{
+    background: white;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    padding-left: 0;
+    border: 3px solid black;
+    margin: 10px;
+    border-radius: 5px 10px;
+}
+
+.cont{
+    margin: 0;
+    margin-bottom: 15px;
+    text-transform: capitalize;
+}
+
+.postimg {
+    margin-bottom: 15px;
+    width: 100%;
+  
+}
+.list{
+    list-style-type: none;
+    padding: 0;
+}
+
+.list li a {
+    text-decoration: none;
+}
