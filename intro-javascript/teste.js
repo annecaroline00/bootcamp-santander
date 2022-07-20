@@ -12,10 +12,12 @@ var x = 1;*/
 
 
 
-function soma(a, b) {
+// function soma(a, b) {
 
-    console.log(a+ b)
-    return a + b
-}
+//     console.log(a+ b)
+//     return a + b
+// }
 
-soma(3,5)
+// soma(3,5)
+
+console.log('Hello world');
