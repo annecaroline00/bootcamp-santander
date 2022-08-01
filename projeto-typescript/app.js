@@ -7,7 +7,7 @@ function somarSemValidarNumeros (numero1, numero2) {
 }
 
 button.addEventListener('click', () => {
-    console.log(somarSemValidarNumeros(input1.value, input2.value));
+    console.log(printarsomarSemValidarNumeros(input1.value, input2.value));
 });
 
 function somarValidando(numero1, numero2) {
