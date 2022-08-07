@@ -1,3 +1,4 @@
+
 import { Component, Input, OnInit } from '@angular/core';
 import { alunos } from '../model/alunos'
 
@@ -10,7 +11,7 @@ export class HomeComponent implements OnInit {
 
   constructor() { }
 
-  valor : number;
+  valor: number;
   exibeTabela:  boolean = false;
 
   listaAlunos: alunos[] = [
